@@ -24,4 +24,5 @@ class Polyline extends Path<LeafletElement, Props> {
   }
 }
 
+export { Polyline as ExtendablePolyline }
 export default withLeaflet<Props, Polyline>(Polyline)

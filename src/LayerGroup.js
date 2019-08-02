@@ -17,4 +17,5 @@ class LayerGroup extends MapLayer<LeafletElement, Props> {
   }
 }
 
+export { LayerGroup as ExtendableLayerGroup }
 export default withLeaflet<Props, LayerGroup>(LayerGroup)

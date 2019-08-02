@@ -29,4 +29,5 @@ class CircleMarker extends Path<LeafletElement, Props> {
   }
 }
 
+export { CircleMarker as ExtendableCircleMarker }
 export default withLeaflet<Props, CircleMarker>(CircleMarker)

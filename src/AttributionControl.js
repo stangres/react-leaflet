@@ -17,4 +17,5 @@ class AttributionControl extends MapControl<LeafletElement, Props> {
   }
 }
 
+export { AttributionControl as ExtendableAttributionControl }
 export default withLeaflet<Props, AttributionControl>(AttributionControl)
