@@ -10,6 +10,7 @@ open pull requests to update this list!
 
 | Plugin                                                                                                           | Compatible with v2 |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [`leaflet-drift-marker`](https://www.npmjs.com/package/leaflet-drift-marker)                                     | **yes**            |
 | [`leaflet-react-track-player`](https://www.npmjs.com/package/leaflet-react-track-player)                         | unknown            |
 | [`react-leaflet-ant-path`](https://www.npmjs.com/package/react-leaflet-ant-path)                                 | unknown            |
 | [`react-leaflet-bing`](https://www.npmjs.com/package/react-leaflet-bing)                                         | **yes**            |
@@ -18,6 +19,7 @@ open pull requests to update this list!
 | [`react-leaflet-cluster-layer`](https://www.npmjs.com/package/react-leaflet-cluster-layer)                       | unknown            |
 | [`react-leaflet-control`](https://www.npmjs.com/package/react-leaflet-control)                                   | **yes**            |
 | [`react-leaflet-d3`](https://www.npmjs.com/package/react-leaflet-d3)                                             | **yes**            |
+| [`react-leaflet-d3-svg-overlay`](https://www.npmjs.com/package/react-leaflet-d3-svg-overlay)                     | **yes**            |
 | [`react-leaflet-deflate`](https://www.npmjs.com/package/react-leaflet-deflate)                                   | **yes**            |
 | [`react-leaflet-dialog`](https://www.npmjs.com/package/react-leaflet-dialog)                                     | **yes**            |
 | [`react-leaflet-distance-marker`](https://www.npmjs.com/package/react-leaflet-distance-marker)                   | unknown            |
@@ -26,6 +28,7 @@ open pull requests to update this list!
 | [`react-leaflet-draggable-polyline`](https://www.npmjs.com/package/react-leaflet-draggable-polyline)             | unknown            |
 | [`react-leaflet-draw`](https://www.npmjs.com/package/react-leaflet-draw)                                         | unknown            |
 | [`react-leaflet-easyprint`](https://www.npmjs.com/package/react-leaflet-easyprint)                               | **yes**            |
+| [`react-leaflet-enhanced-marker`](https://www.npmjs.com/package/react-leaflet-enhanced-marker)                   | **yes**            |
 | [`react-leaflet-figure-editor`](https://www.npmjs.com/package/react-leaflet-figure-editor)                       | unknown            |
 | [`react-leaflet-freedraw`](https://www.npmjs.com/package/react-leaflet-freedraw)                                 | **yes**            |
 | [`react-leaflet-fullscreen-control`](https://www.npmjs.com/package/react-leaflet-fullscreen-control)             | unknown            |
@@ -41,12 +44,12 @@ open pull requests to update this list!
 | [`react-leaflet-measure`](https://www.npmjs.com/package/react-leaflet-measure)                                   | **yes**            |
 | [`react-leaflet-nmscale`](https://www.npmjs.com/package/@marfle/react-leaflet-nmscale)                           | **yes**            |
 | [`react-leaflet-pane`](https://www.npmjs.com/package/react-leaflet-pane)                                         | unknown            |
-| [`react-leaflet-rotatedmarker`](https://www.npmjs.com/package/react-leaflet-rotatedmarker)                       | unknown            |
 | [`react-leaflet-search`](https://www.npmjs.com/package/react-leaflet-search)                                     | **yes**            |
 | [`react-leaflet-semicircle`](https://www.npmjs.com/package/react-leaflet-semicircle)                             | **yes**            |
 | [`react-leaflet-shapefile`](https://www.npmjs.com/package/react-leaflet-shapefile)                               | **no**             |
 | [`react-leaflet-sidebarv2`](https://www.npmjs.com/package/react-leaflet-sidebarv2)                               | unknown            |
 | [`react-leaflet-sidetabs`](https://www.npmjs.com/package/react-leaflet-sidetabs)                                 | **yes**            |
+| [`react-leaflet-street-view`](https://www.npmjs.com/package/react-leaflet-street-view)                           | **yes**            |
 | [`react-leaflet-textpath`](https://www.npmjs.com/package/react-leaflet-textpath)                                 | **yes**            |
 | [`react-leaflet-vectorgrid`](https://www.npmjs.com/package/react-leaflet-vectorgrid)                             | **yes**            |
 | [`react-leaflet-wmts`](https://www.npmjs.com/package/react-leaflet-wmts)                                         | **yes**            |

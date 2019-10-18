@@ -25,6 +25,7 @@ react-leaflet v2 makes it impossible to directly extend these components:
 - Popup
 - Rectangle
 - ScaleControl
+- SVGOverlay
 - TileLayer
 - Tooltip
 - VideoOverlay

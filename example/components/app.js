@@ -8,6 +8,7 @@ import EventsExample from './events'
 import ViewportExample from './viewport'
 import VectorLayersExample from './vector-layers'
 import OtherLayersExample from './other-layers'
+import GeoJSONExample from './geojson'
 import ZoomControlExample from './zoom-control'
 import LayersControlExample from './layers-control'
 import DraggableExample from './draggable-marker'
@@ -19,6 +20,7 @@ import PaneExample from './pane'
 import WMSTileLayerExample from './wms-tile-layer'
 import VideoOverlayExample from './video-overlay'
 import CustomIcons from './custom-icons'
+import SVGOverlayExample from './svg-overlay'
 
 Leaflet.Icon.Default.imagePath =
   '//cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/images/'
@@ -36,8 +38,12 @@ const App = () => (
     <ViewportExample />
     <h2>Vector layers</h2>
     <VectorLayersExample />
+    <h2>SVG Overlay</h2>
+    <SVGOverlayExample />
     <h2>Other layers</h2>
     <OtherLayersExample />
+    <h2>GeoJSON with Popup</h2>
+    <GeoJSONExample />
     <h2>Tooltips</h2>
     <TooltipExample />
     <h2>Zoom control</h2>
