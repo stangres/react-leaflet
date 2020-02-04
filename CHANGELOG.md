@@ -1,3 +1,16 @@
+## v2.6.1 (2019-12-14)
+
+Fixed catching falsy values in `utils/pick` ([PR #649](https://github.com/PaulLeCam/react-leaflet/pull/649) by _CaptainLexington_).
+
+## v2.6.0 (2019-11-18)
+
+- Updated Leaflet dependency to v1.6.
+- Added support for `doubleClickZoom` option's `center` setting to the `Map` component ([PR #633](https://github.com/PaulLeCam/react-leaflet/pull/633) by _DerGuteMoritz_).
+- Added `markersInheritOptions` prop to `GeoJSON` component.
+- [website] Updated `react-leaflet-bing` plugin ([PR #634](https://github.com/PaulLeCam/react-leaflet/pull/634) by _Charmatzis_).
+- [website] Updated `react-leaflet-google` plugin ([PR #635](https://github.com/PaulLeCam/react-leaflet/pull/635) by _Charmatzis_).
+- [website] Added `react-leaflet-curve` plugin ([PR #636](https://github.com/PaulLeCam/react-leaflet/pull/636) by _Shadowman4205_).
+
 ## v2.5.0 (2019-10-19)
 
 - Added `SVGOverlay` component ([PR #630](https://github.com/PaulLeCam/react-leaflet/pull/630) by _fenech_).
