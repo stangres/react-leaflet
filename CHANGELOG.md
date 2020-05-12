@@ -1,3 +1,21 @@
+## v2.7.0 (2020-05-06)
+
+- Added `viewBox` and `preserveAspectRatio` props to `SVGOverlay` component ([PR #704](https://github.com/PaulLeCam/react-leaflet/pull/704) by _spectras_).
+- [website] Bump Leaflet docs links to v1.6.0 ([PR #686](https://github.com/PaulLeCam/react-leaflet/pull/686) by _moondef_).
+- [website] Set react-leaflet-markercluster v2 support ([PR #693](https://github.com/PaulLeCam/react-leaflet/pull/693) by _yuzhva_).
+- [website] Added react-leaflet-kml plugin ([PR #707](https://github.com/PaulLeCam/react-leaflet/pull/707) by _aviklai_).
+
+## v2.6.3 (2020-03-13)
+
+Fixed regression in v2.6.2 handling `maxZoom` and `minZoom` options in `Map` component.
+
+## v2.6.2 (2020-03-12)
+
+- Fixed applying `maxZoom` and `minZoom` options to tile layers.
+- [website] Added `react-leaflet-geodesic` plugin ([PR #656](https://github.com/PaulLeCam/react-leaflet/pull/656) by _dcdourado_).
+- [website] Added `react-leaflet-arrowheads` and `react-leaflet-editable-popup` plugins ([PR #678](https://github.com/PaulLeCam/react-leaflet/pull/678) by _slutske22_).
+- [internal] Set babel runtime version ([PR #670](https://github.com/PaulLeCam/react-leaflet/pull/670) by _anajavi_).
+
 ## v2.6.1 (2019-12-14)
 
 Fixed catching falsy values in `utils/pick` ([PR #649](https://github.com/PaulLeCam/react-leaflet/pull/649) by _CaptainLexington_).
