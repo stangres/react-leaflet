@@ -23,7 +23,10 @@ export type {
   PathProps,
 } from './types'
 
-export { default as AttributionControl, ExtendableAttributionControl } from './AttributionControl'
+export {
+  default as AttributionControl,
+  ExtendableAttributionControl,
+} from './AttributionControl'
 export { default as Circle, ExtendableCircle } from './Circle'
 export { default as CircleMarker, ExtendableCircleMarker } from './CircleMarker'
 export { default as DivOverlay } from './DivOverlay'
@@ -32,7 +35,11 @@ export { default as GeoJSON, ExtendableGeoJSON } from './GeoJSON'
 export { default as GridLayer } from './GridLayer'
 export { default as ImageOverlay, ExtendableImageOverlay } from './ImageOverlay'
 export { default as LayerGroup, ExtendableLayerGroup } from './LayerGroup'
-export { default as LayersControl, ControlledLayer, ExtendableLayersControl } from './LayersControl'
+export {
+  default as LayersControl,
+  ControlledLayer,
+  ExtendableLayersControl,
+} from './LayersControl'
 export { default as Map } from './Map'
 export { default as MapComponent } from './MapComponent'
 export { default as MapControl } from './MapControl'
